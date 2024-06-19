@@ -1,0 +1,20 @@
+nav {
+	background-color: #009b67;
+	color: whitesmoke;
+}
+section {
+	padding-top: 6rem;
+}
+.jumbotron {
+	background-color: #7fffd4;
+	position: relative;
+}
+
+
+#project {
+	background-color: aquamarine;
+}
+
+footer {
+	background-color: aquamarine;
+}
